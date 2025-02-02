@@ -1,0 +1,29 @@
+h1{
+   text-align: center;
+}
+td{
+    height: 300px;
+    width: 150px;
+    border: 6px solid rgb(33, 27, 27);
+}
+#one{
+    background: #00d300;
+}
+#two{
+    background: #008207;
+}
+#three{
+    background: #0000ff;
+}
+#four{
+    background: #00ff00;
+}
+#five{
+    background: #ff8c00;
+}
+#six{
+    background: #0800ff;
+}
+#seven{
+    background: #00ff62;
+}
